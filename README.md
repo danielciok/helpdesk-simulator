@@ -1,5 +1,6 @@
 ```bash
 python main.py
+```
 
 ```markdown
 Built as a portfolio project to simulate real IT Support / Help Desk workflows.
