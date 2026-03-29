@@ -1,3 +1,10 @@
+```bash
+python main.py
+
+```markdown
+Built as a portfolio project to simulate real IT Support / Help Desk workflows.
+```
+
 # Help Desk Simulator v4.2
 
 A desktop-based Help Desk Ticketing System built with Python (Tkinter).  
@@ -9,11 +16,7 @@ This project simulates real-world IT support workflows including ticket manageme
 ---
 ## 🛠 Run locally
 
-```bash
-python main.py
 
-```markdown
-Built as a portfolio project to simulate real IT Support / Help Desk workflows.
 
 
 ## 🚀 Features
@@ -100,6 +103,8 @@ This project was built as part of my portfolio to demonstrate:
 - GUI development in Python
 
 ---
+
+
 
 ## 👤 Author
 
