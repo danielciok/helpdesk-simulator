@@ -5,7 +5,7 @@ This project simulates real-world IT support workflows including ticket manageme
 
 ## 📸 Screenshot
 
-![App Screenshot](screen.png)
+![App Screenshot](screenshot.png)
 ---
 
 ## 🚀 Features
