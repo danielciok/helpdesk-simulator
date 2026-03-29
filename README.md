@@ -3,6 +3,9 @@
 A desktop-based Help Desk Ticketing System built with Python (Tkinter).  
 This project simulates real-world IT support workflows including ticket management, assignment, SLA tracking, and technician actions.
 
+## 📸 Screenshot
+
+![App Screenshot](screen.png)
 ---
 
 ## 🚀 Features
