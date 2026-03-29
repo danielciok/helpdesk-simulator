@@ -7,6 +7,14 @@ This project simulates real-world IT support workflows including ticket manageme
 
 ![App Screenshot](screenshot.png)
 ---
+## 🛠 Run locally
+
+```bash
+python main.py
+
+```markdown
+Built as a portfolio project to simulate real IT Support / Help Desk workflows.
+
 
 ## 🚀 Features
 
